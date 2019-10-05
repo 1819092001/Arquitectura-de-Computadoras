@@ -1,0 +1,31 @@
+La estructura  lógica  de un disco duro está formado por:
+•	Sector de arranque: Es el primer sector de un  disco duro en él se almacena la tabla de particiones y un  programa  pequeño llamado Master Boot.
+•	Espacio particionado: Es el espacio del disco que  ha sido asignado a alguna partición.
+•	Espacio sin particionar: Es el espacio del disco  que no ha sido asignado a ninguna partición.
+Existen cuatro clases de discos duros:
+•	Disco duro SAS: Indica la velocidad de transferencia de datos máxima, expresada en Gb/s (Gigabits/segundo). Un disco duro SAS tiene dentro de sus características lo siguiente: Marca HP®, 600 GB, SFF 2.5 Inch,  Hot Plug*, 6G*, SAS, 10K RPM.     * Este dato indica la velocidad de transferencia de datos, en este caso 6 Gigabits/segundo.
+•	Disco duro IDE y ATA
+IDE: fluctúa desde 5 MB/s hasta 133 MB/s (en ATA A100/133).
+ATA: el valor máximo de transferencia según su versión (1 a 8), se encuentra en el rango de los 100 MB/s a 133 MB/s.
+•	Disco duro SATA y SATA 2
+SATA: se distingue por funcionar con una velocidad cerca a los 150 megabytes por segundo.
+SATA 2:este dispositivo dispone de mejor capacidad debido a que funciona hasta con 300 megabytes por segundo, lo que representa que su tiempo de respuesta es muy bueno. Se diferencia en comparación con SATA es que realiza sus actividades a 300 megabytes por segundo.
+   Tipos de computadoras
+•	Las grandes computadoras: Supercomputadoras.
+•	 Mainframes.
+•	Las Minicomputadoras.
+•	Las estaciones de trabajo.
+•	Las computadoras personales.
+•	Las computadoras de escritorio.
+•	Las computadoras portátiles.
+ Partes del procesador de computadora
+o	Zócalo
+o	El CPU
+o	Microprocesador
+o	Unidad de Control
+o	Encapsulado
+o	Chipset
+o	Registros
+o	Unidad Aritmética Lógica
+o	Tarjeta de video
+o	Memoria Caché
